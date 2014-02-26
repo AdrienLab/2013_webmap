@@ -1,0 +1,32 @@
+<html>
+<head>
+  <title> berliner gartenkarte </title>
+
+  <link rel="stylesheet" type="text/css" href="./OpenLayers/theme/default/style.css" />
+  <link rel="stylesheet" type="text/css" href="./gartenkarte.css" />
+  <link rel="stylesheet" href="./badge/css/forkit.css">
+  <link rel="stylesheet" href="./badge/css/demo.css">
+
+  <script type="text/javascript" src="./OpenLayers/OpenLayers.js"></script>
+  <script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js"></script>
+  <script type="text/javascript" src="http://www.openstreetmap.org/openlayers/OpenStreetMap.js"></script>
+  <script type="text/javascript" src="./gartenkarte.js"></script>
+</head>
+
+<body onLoad="init()">
+  <div id="map" class="smallmap"></div>
+
+		<!-- The contents (if there's no contents the ribbon acts as a link) -->
+		<div class="forkit-curtain">
+			<div class="close-button"></div>
+			<h2>please also enjoy our printed map</h2>
+			<small>at <a href="http://gartenkarte.de/gartenplane" target="_blank">gartenkarte.de/gartenplane</a></small>
+		</div>
+
+		<!-- The ribbon -->
+		<a class="forkit" data-text="print map ..." data-text-detached="drag down >" href="http://gartenkarte.de/gartenplane"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://a248.e.akamai.net/camo.github.com/e6bef7a091f5f3138b8cd40bc3e114258dd68ddf/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="print map also available"></a>
+
+		<script src="./badge/js/forkit.js"></script>
+
+</body>
+</html>

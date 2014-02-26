@@ -1,0 +1,172 @@
+body {
+  margin:0px;
+}
+
+/* OpenLayers Skin von omniscale.de */
+
+.olHandlerBoxZoomBox {
+  border: 2px solid black;
+  position: absolute;
+  background-color: white;
+  opacity: 0.50;
+  font-size: 1px;
+  filter: alpha(opacity=50);
+}
+
+.olControlZoomPanel {
+  border-radius: 7px 7px 7px 7px;
+  height: 43px;
+  left: 10px;
+  padding: 5px;
+  top: 10px;
+  width: 19px;
+  background-color: #48474C;
+}
+
+.olControlZoomPanel .olControlZoomInItemInactive, 
+.olControlZoomPanel .olControlZoomOutItemInactive {
+  background-repeat: no-repeat;
+  border-radius: 4px 4px 4px 4px;
+  height: 19px;
+  margin-bottom: 5px;
+  width: 19px;
+}
+
+.olControlZoomPanel .olControlZoomInItemInactive {
+  background: url("zoom-in.png") no-repeat scroll 5px 5px;
+  top: auto;
+  left: auto;
+}
+
+.olControlZoomPanel .olControlZoomToMaxExtentItemInactive {
+  display: none;
+/*  background: url("zoom-world.png") no-repeat scroll 0px 0px;*/
+}
+
+.olControlZoomPanel .olControlZoomOutItemInactive {
+  background: url("zoom-out.png") no-repeat scroll 5px 5px;
+  top: 29px;
+  left: auto;
+}
+
+.olControlZoomPanel .olControlZoomInItemInactive, 
+.olControlZoomPanel .olControlZoomOutItemInactive {
+  background-color: #827F87;
+  background-repeat: no-repeat;
+  border-radius: 4px 4px 4px 4px;
+  height: 19px;
+  margin-bottom: 5px;
+  width: 19px;
+}
+
+/* small dives like iphone */
+@media only screen and (max-device-width: 480px) {
+  .olControlZoomPanel {
+    border-radius: 7px 7px 7px 7px;
+    left: 10px;
+    padding: 5px;
+    top: 10px;
+    height: 56px;
+    width: 25px;
+  }
+
+  .olControlZoomPanel .olControlZoomInItemInactive {
+    background: url("zoom-in-big.png") no-repeat scroll 5px 5px;
+    background-color: white;
+  }
+
+  .olControlZoomPanel .olControlZoomToMaxExtentItemInactive,
+  .olControlZoomPanel .olControlZoomInItemInactive, 
+  .olControlZoomPanel .olControlZoomOutItemInactive {
+    background-repeat: no-repeat;
+    border-radius: 4px 4px 4px 4px;
+    height: 25px;
+    margin-bottom: 5px;
+    width: 25px;
+  }
+
+  .olControlZoomPanel .olControlZoomToMaxExtentItemInactive {
+    background: url("zoom-world-big.png") no-repeat scroll 2px 2px;
+    background-color: white;
+  }
+
+  .olControlZoomPanel .olControlZoomOutItemInactive {
+    background: url("zoom-out-big.png") no-repeat scroll 5px 5px;
+  }
+
+  .olControlZoomPanel .olControlZoomInItemInactive, 
+  .olControlZoomPanel .olControlZoomOutItemInactive {
+    background-color: white;
+    background-repeat: no-repeat;
+    border-radius: 4px 4px 4px 4px;
+    height: 25px;
+    margin-bottom: 5px;
+    width: 25px;
+  }
+}
+
+@media only screen and (device-width: 768px) {
+  .olControlZoomPanel {
+    border-radius: 7px 7px 7px 7px;
+    left: 10px;
+    padding: 5px;
+    top: 10px;
+    height: 56px;
+    width: 25px;
+  }
+
+  .olControlZoomPanel .olControlZoomInItemInactive {
+    background: url("zoom-in-big.png") no-repeat scroll 5px 5px;
+    background-color: white;
+  }
+
+  .olControlZoomPanel .olControlZoomToMaxExtentItemInactive,
+  .olControlZoomPanel .olControlZoomInItemInactive, 
+  .olControlZoomPanel .olControlZoomOutItemInactive {
+    background-repeat: no-repeat;
+    border-radius: 4px 4px 4px 4px;
+    height: 25px;
+    margin-bottom: 5px;
+    width: 25px;
+  }
+
+  .olControlZoomPanel .olControlZoomToMaxExtentItemInactive {
+    background: url("zoom-world-big.png") no-repeat scroll 2px 2px;
+    background-color: white;
+  }
+
+  .olControlZoomPanel .olControlZoomOutItemInactive {
+    background: url("zoom-out-big.png") no-repeat scroll 5px 5px;
+  }
+
+  .olControlZoomPanel .olControlZoomInItemInactive, 
+  .olControlZoomPanel .olControlZoomOutItemInactive {
+    background-color: white;
+    background-repeat: no-repeat;
+    border-radius: 4px 4px 4px 4px;
+    height: 25px;
+    margin-bottom: 5px;
+    width: 25px;
+  }
+}
+
+.olControlAttribution {
+    font-family: Helvetica, Arial, sans-serif;
+	  font-size: 0.6em;
+    right: 3px; 
+    bottom: 0.3em; 
+    position: absolute; 
+    display: block;
+    background-color: #f9f5f0;
+    opacity: 0.7;
+}
+/* http://osgeo-org.1560.n6.nabble.com/problem-in-change-bgcolor-of-layer-switcher-td3927547.html	*/
+.olControlLayerSwitcher .layersDiv {
+	background-color: #48474C!important;
+}
+.olControlScaleLine {
+	font-family: sans-serif!important;
+}
+
+/* Popup Styling */
+.olPopupContent {font: 10pt sans-serif;}
