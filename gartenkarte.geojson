@@ -1,0 +1,160 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "X": 1, "Titel": "Allmende-Kontor", "ProjektCode": "B001", "lat": 52.474444428994197, "lon": 13.416955197067301, "Nr": "1" }, "geometry": { "type": "Point", "coordinates": [ 13.416955197067301, 52.474444428994197 ] } }
+,
+{ "type": "Feature", "properties": { "X": 24, "Titel": "Bauerngarten-Projekt  \"Bauerngarten Havelmathen\"", "ProjektCode": "B023a", "lat": 52.4771597548594, "lon": 13.180784404754601, "Nr": "2" }, "geometry": { "type": "Point", "coordinates": [ 13.180784404754601, 52.4771597548594 ] } }
+,
+{ "type": "Feature", "properties": { "X": 25, "Titel": "Bauerngarten-Projekt  \"Mettes Bauerngarten\"", "ProjektCode": "B023b", "lat": 52.402546113816399, "lon": 13.448155881784, "Nr": "3" }, "geometry": { "type": "Point", "coordinates": [ 13.448155881784, 52.402546113816399 ] } }
+,
+{ "type": "Feature", "properties": { "X": 258, "Titel": "Bildung Urban Gardening in Berlin: Qualifizierung, Netzwerbildung und modellhafte Umsetzung im Garten- und Landbau", "ProjektCode": "", "lat": 52.50161, "lon": 13.36877, "Nr": "4" }, "geometry": { "type": "Point", "coordinates": [ 13.36877, 52.50161 ] } }
+,
+{ "type": "Feature", "properties": { "X": 8, "Titel": "Bunte Beete", "ProjektCode": "B008", "lat": 52.501723, "lon": 13.4355626, "Nr": "5" }, "geometry": { "type": "Point", "coordinates": [ 13.4355626, 52.501723 ] } }
+,
+{ "type": "Feature", "properties": { "X": 21, "Titel": "Bunter Garten Buchholz", "ProjektCode": "B020", "lat": 52.608662724166798, "lon": 13.4163088023773, "Nr": "6" }, "geometry": { "type": "Point", "coordinates": [ 13.4163088023773, 52.608662724166798 ] } }
+,
+{ "type": "Feature", "properties": { "X": 6, "Titel": "Bürgergarten Laskerwiese", "ProjektCode": "B006", "lat": 52.501577, "lon": 13.4657391, "Nr": "7" }, "geometry": { "type": "Point", "coordinates": [ 13.4657391, 52.501577 ] } }
+,
+{ "type": "Feature", "properties": { "X": 41, "Titel": "Domäne Dahlem", "ProjektCode": "B038", "lat": 52.460420366312, "lon": 13.2898009509262, "Nr": "8" }, "geometry": { "type": "Point", "coordinates": [ 13.2898009509262, 52.460420366312 ] } }
+,
+{ "type": "Feature", "properties": { "X": 242, "Titel": "ECF Stadtfarm", "ProjektCode": "D170b", "lat": 52.466533620451102, "lon": 13.363987967042499, "Nr": "9" }, "geometry": { "type": "Point", "coordinates": [ 13.363987967042499, 52.466533620451102 ] } }
+,
+{ "type": "Feature", "properties": { "X": 67, "Titel": "Familiengarten Kotti e.V.", "ProjektCode": "B060d", "lat": 52.501822639892801, "lon": 13.418284103704799, "Nr": "10" }, "geometry": { "type": "Point", "coordinates": [ 13.418284103704799, 52.501822639892801 ] } }
+,
+{ "type": "Feature", "properties": { "X": 73, "Titel": "Gartenarbeitsschule Pankow", "ProjektCode": "", "lat": 52.5815, "lon": 13.42657, "Nr": "11" }, "geometry": { "type": "Point", "coordinates": [ 13.42657, 52.5815 ] } }
+,
+{ "type": "Feature", "properties": { "X": 31, "Titel": "Garten der Poesie - Interkultureller Garten Rixdorf", "ProjektCode": "B028", "lat": 52.475391453293298, "lon": 13.4454240601188, "Nr": "12" }, "geometry": { "type": "Point", "coordinates": [ 13.4454240601188, 52.475391453293298 ] } }
+,
+{ "type": "Feature", "properties": { "X": 43, "Titel": "Garten im Moritzhof", "ProjektCode": "B040", "lat": 52.548296, "lon": 13.4003735, "Nr": "13" }, "geometry": { "type": "Point", "coordinates": [ 13.4003735, 52.548296 ] } }
+,
+{ "type": "Feature", "properties": { "X": 3, "Titel": "Garten Rosa Rose", "ProjektCode": "B003", "lat": 52.513285933897798, "lon": 13.4742347087372, "Nr": "14" }, "geometry": { "type": "Point", "coordinates": [ 13.4742347087372, 52.513285933897798 ] } }
+,
+{ "type": "Feature", "properties": { "X": 22, "Titel": "Gemeinschaftsgarten am Burbacher Weg", "ProjektCode": "B021", "lat": 52.546877148137902, "lon": 13.1777891851807, "Nr": "15" }, "geometry": { "type": "Point", "coordinates": [ 13.1777891851807, 52.546877148137902 ] } }
+,
+{ "type": "Feature", "properties": { "X": 33, "Titel": "Gemeinschaftsgarten Rübezahl", "ProjektCode": "B030", "lat": 52.470768283161, "lon": 13.418296301574699, "Nr": "16" }, "geometry": { "type": "Point", "coordinates": [ 13.418296301574699, 52.470768283161 ] } }
+,
+{ "type": "Feature", "properties": { "X": 64, "Titel": "Generationengarten \"AWO Begegnungszentrum\"", "ProjektCode": "B060a", "lat": 52.503859182967403, "lon": 13.421901835651401, "Nr": "17" }, "geometry": { "type": "Point", "coordinates": [ 13.421901835651401, 52.503859182967403 ] } }
+,
+{ "type": "Feature", "properties": { "X": 65, "Titel": "Generationengarten Begegnungsstätte Falckensteinstraße", "ProjektCode": "B060b", "lat": 52.49955, "lon": 13.44256, "Nr": "18" }, "geometry": { "type": "Point", "coordinates": [ 13.44256, 52.49955 ] } }
+,
+{ "type": "Feature", "properties": { "X": 66, "Titel": "Generationengarten Boseclub", "ProjektCode": "B060c", "lat": 52.462958204892502, "lon": 13.3787301379593, "Nr": "19" }, "geometry": { "type": "Point", "coordinates": [ 13.3787301379593, 52.462958204892502 ] } }
+,
+{ "type": "Feature", "properties": { "X": 68, "Titel": "Generationengarten \"Mittelhof e.V.\"", "ProjektCode": "B060e", "lat": 52.4133811, "lon": 13.2665099, "Nr": "20" }, "geometry": { "type": "Point", "coordinates": [ 13.2665099, 52.4133811 ] } }
+,
+{ "type": "Feature", "properties": { "X": 69, "Titel": "Generationengarten \"Nachbarschaftshaus Centrum e.V.\"", "ProjektCode": "B060f", "lat": 52.49879021348, "lon": 13.4437725079346, "Nr": "21" }, "geometry": { "type": "Point", "coordinates": [ 13.4437725079346, 52.49879021348 ] } }
+,
+{ "type": "Feature", "properties": { "X": 70, "Titel": "Generationengarten \"Paul Gerhard Stift\"", "ProjektCode": "B060g", "lat": 52.555462923270497, "lon": 13.3480436147499, "Nr": "22" }, "geometry": { "type": "Point", "coordinates": [ 13.3480436147499, 52.555462923270497 ] } }
+,
+{ "type": "Feature", "properties": { "X": 71, "Titel": "Generationengarten \"Pestalozzi-Treff\"", "ProjektCode": "B060h", "lat": 52.510175960196001, "lon": 13.614299528836, "Nr": "23" }, "geometry": { "type": "Point", "coordinates": [ 13.614299528836, 52.510175960196001 ] } }
+,
+{ "type": "Feature", "properties": { "X": 72, "Titel": "Generationengarten Tessa e.V.", "ProjektCode": "B060i", "lat": 52.427893271004301, "lon": 13.466864957008401, "Nr": "24" }, "geometry": { "type": "Point", "coordinates": [ 13.466864957008401, 52.427893271004301 ] } }
+,
+{ "type": "Feature", "properties": { "X": 256, "Titel": "Generationengarten Wrangelkiez", "ProjektCode": "", "lat": 52.49955, "lon": 13.44256, "Nr": "25" }, "geometry": { "type": "Point", "coordinates": [ 13.44256, 52.49955 ] } }
+,
+{ "type": "Feature", "properties": { "X": 63, "Titel": "Grabelandparzellen Oberweißbacher Straße", "ProjektCode": "B059", "lat": 52.557396426808701, "lon": 13.573163789024401, "Nr": "26" }, "geometry": { "type": "Point", "coordinates": [ 13.573163789024401, 52.557396426808701 ] } }
+,
+{ "type": "Feature", "properties": { "X": 54, "Titel": "Grüne Weiten", "ProjektCode": "B050", "lat": 52.501728158565498, "lon": 13.4945406722832, "Nr": "27" }, "geometry": { "type": "Point", "coordinates": [ 13.4945406722832, 52.501728158565498 ] } }
+,
+{ "type": "Feature", "properties": { "X": 61, "Titel": "IKG Hermsdorfer Fließtal Naturfreundehaus", "ProjektCode": "B057", "lat": 52.618514174767199, "lon": 13.3255654821396, "Nr": "28" }, "geometry": { "type": "Point", "coordinates": [ 13.3255654821396, 52.618514174767199 ] } }
+,
+{ "type": "Feature", "properties": { "X": 157, "Titel": "Integrations- und Schulgarten - Am Schlaatz", "ProjektCode": "D084", "lat": 52.379288308088597, "lon": 13.0965787460327, "Nr": "29" }, "geometry": { "type": "Point", "coordinates": [ 13.0965787460327, 52.379288308088597 ] } }
+,
+{ "type": "Feature", "properties": { "X": 52, "Titel": "Interkulturelle NaturWerkStadt", "ProjektCode": "B048", "lat": 52.490149241532798, "lon": 13.4170275509262, "Nr": "30" }, "geometry": { "type": "Point", "coordinates": [ 13.4170275509262, 52.490149241532798 ] } }
+,
+{ "type": "Feature", "properties": { "X": 257, "Titel": "Interkultureller Bio-Garten", "ProjektCode": "", "lat": 52.497103773707103, "lon": 13.4077215631599, "Nr": "31" }, "geometry": { "type": "Point", "coordinates": [ 13.4077215631599, 52.497103773707103 ] } }
+,
+{ "type": "Feature", "properties": { "X": 5, "Titel": "Interkultureller Garten Altglienicke", "ProjektCode": "B005", "lat": 52.409194899458598, "lon": 13.536679271163999, "Nr": "32" }, "geometry": { "type": "Point", "coordinates": [ 13.536679271163999, 52.409194899458598 ] } }
+,
+{ "type": "Feature", "properties": { "X": 13, "Titel": "Interkultureller Garten Berlin-Lichtenberg", "ProjektCode": "B013", "lat": 52.5364398, "lon": 13.5010002, "Nr": "33" }, "geometry": { "type": "Point", "coordinates": [ 13.5010002, 52.5364398 ] } }
+,
+{ "type": "Feature", "properties": { "X": 16, "Titel": "Interkultureller Garten City im Familiengarten", "ProjektCode": "B016", "lat": 52.503607838653402, "lon": 13.3612935042297, "Nr": "34" }, "geometry": { "type": "Point", "coordinates": [ 13.3612935042297, 52.503607838653402 ] } }
+,
+{ "type": "Feature", "properties": { "X": 15, "Titel": "Interkultureller Garten der Generationen Berlin-Mitte", "ProjektCode": "B015", "lat": 52.555901171059901, "lon": 13.3638523336601, "Nr": "35" }, "geometry": { "type": "Point", "coordinates": [ 13.3638523336601, 52.555901171059901 ] } }
+,
+{ "type": "Feature", "properties": { "X": 58, "Titel": "Interkultureller Garten der Künste im Pallaspark Schöneberg", "ProjektCode": "B054", "lat": 52.494728441182303, "lon": 13.3584058846558, "Nr": "36" }, "geometry": { "type": "Point", "coordinates": [ 13.3584058846558, 52.494728441182303 ] } }
+,
+{ "type": "Feature", "properties": { "X": 10, "Titel": "Interkultureller Garten im Görlitzer Park", "ProjektCode": "B010", "lat": 52.4957523, "lon": 13.4378234, "Nr": "37" }, "geometry": { "type": "Point", "coordinates": [ 13.4378234, 52.4957523 ] } }
+,
+{ "type": "Feature", "properties": { "X": 14, "Titel": "Interkultureller Garten Marzahn", "ProjektCode": "B014", "lat": 52.568113902558601, "lon": 13.5809682209015, "Nr": "38" }, "geometry": { "type": "Point", "coordinates": [ 13.5809682209015, 52.568113902558601 ] } }
+,
+{ "type": "Feature", "properties": { "X": 32, "Titel": "Interkultureller Garten Mitte Museum am Gesundbrunnen", "ProjektCode": "B029", "lat": 52.551167159835103, "lon": 13.380260052184299, "Nr": "39" }, "geometry": { "type": "Point", "coordinates": [ 13.380260052184299, 52.551167159835103 ] } }
+,
+{ "type": "Feature", "properties": { "X": 19, "Titel": "Interkultureller Garten Oberschöneweide", "ProjektCode": "B019a", "lat": 52.4627092210577, "lon": 13.5244689497375, "Nr": "40" }, "geometry": { "type": "Point", "coordinates": [ 13.5244689497375, 52.4627092210577 ] } }
+,
+{ "type": "Feature", "properties": { "X": 18, "Titel": "Interkultureller Garten Perivoli", "ProjektCode": "B018", "lat": 52.444687, "lon": 13.416386, "Nr": "41" }, "geometry": { "type": "Point", "coordinates": [ 13.416386, 52.444687 ] } }
+,
+{ "type": "Feature", "properties": { "X": 12, "Titel": "Interkultureller Garten Rosenduft", "ProjektCode": "B012", "lat": 52.494915014333301, "lon": 13.3785937936401, "Nr": "42" }, "geometry": { "type": "Point", "coordinates": [ 13.3785937936401, 52.494915014333301 ] } }
+,
+{ "type": "Feature", "properties": { "X": 34, "Titel": "Interkultureller Generationengarten Lichtenrade", "ProjektCode": "B031", "lat": 52.3894025082596, "lon": 13.381055604477, "Nr": "43" }, "geometry": { "type": "Point", "coordinates": [ 13.381055604477, 52.3894025082596 ] } }
+,
+{ "type": "Feature", "properties": { "X": 17, "Titel": "Interkultureller Heilgarten", "ProjektCode": "B017", "lat": 52.526928527356397, "lon": 13.3463392256562, "Nr": "44" }, "geometry": { "type": "Point", "coordinates": [ 13.3463392256562, 52.526928527356397 ] } }
+,
+{ "type": "Feature", "properties": { "X": 50, "Titel": "Interkultureller Nachbarschaftsgarten", "ProjektCode": "B046", "lat": 52.568633075475603, "lon": 13.4959042736801, "Nr": "45" }, "geometry": { "type": "Point", "coordinates": [ 13.4959042736801, 52.568633075475603 ] } }
+,
+{ "type": "Feature", "properties": { "X": 20, "Titel": "Interkultureller Schulgarten Oberschöneweide", "ProjektCode": "B019b", "lat": 52.462683073689803, "lon": 13.524388483467099, "Nr": "46" }, "geometry": { "type": "Point", "coordinates": [ 13.524388483467099, 52.462683073689803 ] } }
+,
+{ "type": "Feature", "properties": { "X": 56, "Titel": "Interkultureller Seniorengarten im MehrGenerationenHaus i.Gr.", "ProjektCode": "B052", "lat": 52.5002812986056, "lon": 13.405461509786999, "Nr": "47" }, "geometry": { "type": "Point", "coordinates": [ 13.405461509786999, 52.5002812986056 ] } }
+,
+{ "type": "Feature", "properties": { "X": 28, "Titel": "Kids' Garden", "ProjektCode": "B025", "lat": 52.492012571462702, "lon": 13.426798510589601, "Nr": "48" }, "geometry": { "type": "Point", "coordinates": [ 13.426798510589601, 52.492012571462702 ] } }
+,
+{ "type": "Feature", "properties": { "X": 46, "Titel": "Kiezgarten Heinrichtreff", "ProjektCode": "B042", "lat": 52.50623, "lon": 13.50013, "Nr": "49" }, "geometry": { "type": "Point", "coordinates": [ 13.50013, 52.50623 ] } }
+,
+{ "type": "Feature", "properties": { "X": 36, "Titel": "Kiez-Garten Köllnische Vorstadt", "ProjektCode": "B033", "lat": 52.4397365197933, "lon": 13.4603862662705, "Nr": "50" }, "geometry": { "type": "Point", "coordinates": [ 13.4603862662705, 52.4397365197933 ] } }
+,
+{ "type": "Feature", "properties": { "X": 30, "Titel": "Kiezgarten Schliemannstrasse", "ProjektCode": "B027", "lat": 52.541898351515798, "lon": 13.418142517860399, "Nr": "51" }, "geometry": { "type": "Point", "coordinates": [ 13.418142517860399, 52.541898351515798 ] } }
+,
+{ "type": "Feature", "properties": { "X": 62, "Titel": "Kiezinseln Schöneberg ", "ProjektCode": "B058", "lat": 52.48118, "lon": 13.35861, "Nr": "52" }, "geometry": { "type": "Point", "coordinates": [ 13.35861, 52.48118 ] } }
+,
+{ "type": "Feature", "properties": { "X": 76, "Titel": "Klimaangepasster Garten im Kinder- und Jugendklub Maxim", "ProjektCode": "", "lat": 52.55219, "lon": 13.44547, "Nr": "53" }, "geometry": { "type": "Point", "coordinates": [ 13.44547, 52.55219 ] } }
+,
+{ "type": "Feature", "properties": { "X": 57, "Titel": "Krummer Garten Charlottenburg", "ProjektCode": "B053", "lat": 52.5152346978265, "lon": 13.3086989365235, "Nr": "54" }, "geometry": { "type": "Point", "coordinates": [ 13.3086989365235, 52.5152346978265 ] } }
+,
+{ "type": "Feature", "properties": { "X": 55, "Titel": "Lern- und Nachbarschaftsgarten Kottbusser Damm", "ProjektCode": "B051", "lat": 52.491755016994297, "lon": 13.424078571302701, "Nr": "55" }, "geometry": { "type": "Point", "coordinates": [ 13.424078571302701, 52.491755016994297 ] } }
+,
+{ "type": "Feature", "properties": { "X": 42, "Titel": "Lichtenberger Stadtgarten e.V.", "ProjektCode": "B039", "lat": 52.526114575612802, "lon": 13.5130832470131, "Nr": "56" }, "geometry": { "type": "Point", "coordinates": [ 13.5130832470131, 52.526114575612802 ] } }
+,
+{ "type": "Feature", "properties": { "X": 27, "Titel": "Märkisches Grünland", "ProjektCode": "B024", "lat": 52.568432947072097, "lon": 13.581230955047699, "Nr": "57" }, "geometry": { "type": "Point", "coordinates": [ 13.581230955047699, 52.568432947072097 ] } }
+,
+{ "type": "Feature", "properties": { "X": 44, "Titel": "meine ernte - Gartenbaubetrieb Vogel", "ProjektCode": "B041a", "lat": 52.577766, "lon": 13.526995, "Nr": "58" }, "geometry": { "type": "Point", "coordinates": [ 13.526995, 52.577766 ] } }
+,
+{ "type": "Feature", "properties": { "X": 45, "Titel": "meine ernte - Hof Lutz Gericke", "ProjektCode": "B041b", "lat": 52.400566005799803, "lon": 13.4768459235954, "Nr": "59" }, "geometry": { "type": "Point", "coordinates": [ 13.4768459235954, 52.400566005799803 ] } }
+,
+{ "type": "Feature", "properties": { "X": 49, "Titel": "Mietergarten am Auerbacher Ring", "ProjektCode": "B045", "lat": 52.533058037385103, "lon": 13.600717074938199, "Nr": "60" }, "geometry": { "type": "Point", "coordinates": [ 13.600717074938199, 52.533058037385103 ] } }
+,
+{ "type": "Feature", "properties": { "X": 48, "Titel": "NachbarschaftsGarten Prachttomate", "ProjektCode": "B044", "lat": 52.476886493703503, "lon": 13.435707256275199, "Nr": "61" }, "geometry": { "type": "Point", "coordinates": [ 13.435707256275199, 52.476886493703503 ] } }
+,
+{ "type": "Feature", "properties": { "X": 29, "Titel": "Offener Garten Weißensee", "ProjektCode": "B026", "lat": 52.5571827334388, "lon": 13.4698054901436, "Nr": "62" }, "geometry": { "type": "Point", "coordinates": [ 13.4698054901436, 52.5571827334388 ] } }
+,
+{ "type": "Feature", "properties": { "X": 23, "Titel": "Ökogarten am Buschgraben - Ein Garten für alle!", "ProjektCode": "B022", "lat": 52.423183737315199, "lon": 13.2446462294998, "Nr": "63" }, "geometry": { "type": "Point", "coordinates": [ 13.2446462294998, 52.423183737315199 ] } }
+,
+{ "type": "Feature", "properties": { "X": 47, "Titel": "Permakulturgarten Wagendorf Karow", "ProjektCode": "B043", "lat": 52.615889208949, "lon": 13.4524397962952, "Nr": "64" }, "geometry": { "type": "Point", "coordinates": [ 13.4524397962952, 52.615889208949 ] } }
+,
+{ "type": "Feature", "properties": { "X": 4, "Titel": "Prinzessinnengarten", "ProjektCode": "B004", "lat": 52.503034678951003, "lon": 13.4112125289749, "Nr": "65" }, "geometry": { "type": "Point", "coordinates": [ 13.4112125289749, 52.503034678951003 ] } }
+,
+{ "type": "Feature", "properties": { "X": 2, "Titel": "Pyramidengarten", "ProjektCode": "B002", "lat": 52.482049973456299, "lon": 13.408210429343599, "Nr": "66" }, "geometry": { "type": "Point", "coordinates": [ 13.408210429343599, 52.482049973456299 ] } }
+,
+{ "type": "Feature", "properties": { "X": 59, "Titel": "Quartiersgarten Havelspitze in der Spandauer Wasserstadt", "ProjektCode": "B055", "lat": 52.560496806846103, "lon": 13.221000259168999, "Nr": "67" }, "geometry": { "type": "Point", "coordinates": [ 13.221000259168999, 52.560496806846103 ] } }
+,
+{ "type": "Feature", "properties": { "X": 53, "Titel": "Rostlaube Containerfarm", "ProjektCode": "B049", "lat": 52.466612055647197, "lon": 13.3639986958785, "Nr": "68" }, "geometry": { "type": "Point", "coordinates": [ 13.3639986958785, 52.466612055647197 ] } }
+,
+{ "type": "Feature", "properties": { "X": 259, "Titel": "Stadtacker", "ProjektCode": "", "lat": 52.481475377915601, "lon": 13.402411263021101, "Nr": "69" }, "geometry": { "type": "Point", "coordinates": [ 13.402411263021101, 52.481475377915601 ] } }
+,
+{ "type": "Feature", "properties": { "X": 39, "Titel": "Stadtbienenhonig", "ProjektCode": "B036", "lat": 52.502096024078803, "lon": 13.4064043904907, "Nr": "70" }, "geometry": { "type": "Point", "coordinates": [ 13.4064043904907, 52.502096024078803 ] } }
+,
+{ "type": "Feature", "properties": { "X": 37, "Titel": "StadtGut Blankenfelde", "ProjektCode": "B034", "lat": 52.616285936193499, "lon": 13.3935631190491, "Nr": "71" }, "geometry": { "type": "Point", "coordinates": [ 13.3935631190491, 52.616285936193499 ] } }
+,
+{ "type": "Feature", "properties": { "X": 9, "Titel": "Stadtteilgarten Schillerkiez", "ProjektCode": "B009", "lat": 52.477225025087797, "lon": 13.415463888854999, "Nr": "72" }, "geometry": { "type": "Point", "coordinates": [ 13.415463888854999, 52.477225025087797 ] } }
+,
+{ "type": "Feature", "properties": { "X": 60, "Titel": "TDZ Interkultureller Garten Neukölln", "ProjektCode": "B056", "lat": 52.478979802077298, "lon": 13.431170865745599, "Nr": "73" }, "geometry": { "type": "Point", "coordinates": [ 13.431170865745599, 52.478979802077298 ] } }
+,
+{ "type": "Feature", "properties": { "X": 11, "Titel": "Ton Steine Gärten Nachbarschaftsgarten am Mariannenplatz", "ProjektCode": "B011", "lat": 52.505908369778297, "lon": 13.427574635581999, "Nr": "74" }, "geometry": { "type": "Point", "coordinates": [ 13.427574635581999, 52.505908369778297 ] } }
+,
+{ "type": "Feature", "properties": { "X": 51, "Titel": "Urban-Gardening Projekt Farbfelder", "ProjektCode": "B047", "lat": 52.558031470287602, "lon": 13.43960102314, "Nr": "75" }, "geometry": { "type": "Point", "coordinates": [ 13.43960102314, 52.558031470287602 ] } }
+,
+{ "type": "Feature", "properties": { "X": 38, "Titel": "Wriezener Freiraumlabor \"Grünes Klassenzimmer\"", "ProjektCode": "B035b", "lat": 52.509977645638699, "lon": 13.4453558846558, "Nr": "76" }, "geometry": { "type": "Point", "coordinates": [ 13.4453558846558, 52.509977645638699 ] } }
+,
+{ "type": "Feature", "properties": { "X": 7, "Titel": "Wuhlegarten – Interkultureller Garten Berlin-Köpenick e. V.", "ProjektCode": "B007", "lat": 52.45573, "lon": 13.571, "Nr": "77" }, "geometry": { "type": "Point", "coordinates": [ 13.571, 52.45573 ] } }
+
+]
+}
